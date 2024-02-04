@@ -1,0 +1,21 @@
+/* asterisk wilcard selector to override default styles applied by the browser */ 
+* {
+    pa
+}
+/* header */
+
+header {
+    background-color: aqua;
+}
+
+/* Main content */
+
+main {
+    background-color: aliceblue;
+}
+
+/* footer */
+
+footer {
+    background-color: bisque;
+}
